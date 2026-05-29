@@ -11,7 +11,7 @@ just rebuilt in JavaScript for the browser.
 Built this to learn how backend logic translates to frontend, and ended up going deep into what actually makes passwords 
 secure — entropy, pseudorandomness, cryptographic hashing, and why the secrets module beats random every time.
 
-A small project. A lot learned!.
+A small project. A lot learned.
 
 -------------------------------------------------------------------------------------------------------------------
 
