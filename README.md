@@ -18,7 +18,7 @@ A small project. A lot learned!.
 ## How to use this tool?
 
 Its very simple to use this website. Just by visiting this link. One can start using this app.
-#  https://abhijithkris0101.github.io/Pypassword-Generator/
+ https://abhijithkris0101.github.io/Pypassword-Generator/
 
 ## Bash
 
