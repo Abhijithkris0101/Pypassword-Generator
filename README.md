@@ -20,10 +20,9 @@ A small project. A lot learned!.
 Its very simple to use this website. Just by visiting this link. One can start using this app.
  https://abhijithkris0101.github.io/Pypassword-Generator/
 
-## Bash
-
+```Bash
 python password-generator.py 
-
+```
 ## Prerequisites
 
 | What you want to do | What you need |
