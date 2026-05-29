@@ -15,4 +15,23 @@ A small project. A lot learned!.
 
 -------------------------------------------------------------------------------------------------------------------
 
-How to use this tool?
+## How to use this tool?
+
+Its very simple to use this website. Just by visiting this link. One can start using this app.
+#  https://abhijithkris0101.github.io/Pypassword-Generator/
+
+## Bash
+
+python password-generator.py 
+
+## Prerequisites
+
+| What you want to do | What you need |
+|---|---|
+| Use the live website | Just a browser |
+| Run locally | Just a browser |
+| Run Python version | Python 3.x |
+| Edit the project | VS Code + Git |
+
+No installations needed to use the website.
+
